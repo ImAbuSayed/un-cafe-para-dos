@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-cafe-para-dos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Un café para dos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-cafe-para-dos/) |
+| **Get License** | [License this song: Un café para dos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-cafe-para-dos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mami, dime si esta noche te escapas conmigo
+> Un café para dos, sin que nadie sea testigo
+> Ya vi tu mirada y sé bien lo que estás pensando
+> Tú y yo en la ciudad y el deseo nos va quemando
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
