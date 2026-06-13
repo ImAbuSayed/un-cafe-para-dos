@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Un café para dos
+
+This log tracks the cryptographic history and versioning for the song **Un café para dos** (un-cafe-para-dos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T18:20:31.476570 | `v1` | `6083d7e4a59d7bb25676e5bc6f5c90afdc3c2225656f3ad1cab677f2efa7f392` | `b6ac182e4d427beb8a585db549e82866ab9135661240877b5dd49d5fe850dabd` | `2026-06-13_un-cafe-para-dos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
